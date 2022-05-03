@@ -1,0 +1,148 @@
+{
+  "users": [
+    {
+      "email": "merlyn@gmail.com",
+      "password": "123",
+      "name": "merlyn",
+      "id": 1
+    },
+    {
+      "email": "john@gmail.com",
+      "password": "john",
+      "name": "John",
+      "id": 2
+    },
+    {
+      "email": "p@gmail.com",
+      "password": "peter",
+      "name": "Peter",
+      "id": 3
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "abc",
+      "name": "Mee",
+      "id": 4
+    },
+    {
+      "email": "mary@gmail.com",
+      "password": "mary",
+      "name": "Mary",
+      "id": 5
+    },
+    {
+      "email": "tcufiuc",
+      "password": "jhfu f",
+      "name": "ibutgio",
+      "id": 6
+    },
+    {
+      "email": "iutftf",
+      "password": "ufutf",
+      "name": "ghkgl",
+      "id": 7
+    },
+    {
+      "email": "merlyn@g.com",
+      "password": "123",
+      "name": "merlyn",
+      "id": 8
+    },
+    {
+      "email": "jb,",
+      "password": "",
+      "name": "hgcc",
+      "id": 9
+    },
+    {
+      "email": "user@g.com",
+      "password": "123",
+      "name": "user1",
+      "id": 10
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "123",
+      "name": "ABC",
+      "id": 11
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "qwerty",
+      "name": "abc",
+      "id": 12
+    },
+    {
+      "email": "abc@gmail.v",
+      "password": "dg",
+      "name": "abc",
+      "id": 13
+    },
+    {
+      "email": "sfsf",
+      "password": "wfqf",
+      "name": "sdsf",
+      "id": 14
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "qwerty",
+      "name": "Tyro1",
+      "id": 15
+    },
+    {
+      "email": "meena@gmail.com",
+      "password": "qwerty",
+      "name": "meena",
+      "id": 16
+    },
+    {
+      "email": "meena@gmail.com",
+      "password": "123",
+      "name": "meena",
+      "id": 17
+    }
+  ],
+  "employee": [
+    {
+      "id": 1,
+      "name": "Ria",
+      "age": 22,
+      "email": "ria@gmail.com",
+      "contact": 768997642,
+      "address": "Goa"
+    },
+    {
+      "id": 2,
+      "name": "Seema",
+      "age": 20,
+      "email": "seema@gmail.com",
+      "contact": 9834763442,
+      "address": "Margoa Goa"
+    },
+    {
+      "name": "Taylor",
+      "age": "23",
+      "email": "Taylor@gmail.com",
+      "contact": "42764828",
+      "address": "India",
+      "id": 3
+    },
+    {
+      "name": "Stephen",
+      "age": "23",
+      "email": "steph@gmail.com",
+      "contact": "42764828",
+      "address": "Mumbai India",
+      "id": 4
+    },
+    {
+      "name": "Joquin",
+      "age": "45",
+      "email": "joe@1234",
+      "contact": "7575876987",
+      "address": "Panjim Goa",
+      "id": 5
+    }
+  ]
+}
